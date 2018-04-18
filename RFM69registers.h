@@ -150,6 +150,9 @@
 #define RF_DATAMODUL_MODULATIONSHAPING_11       0x03
 
 
+#define RF_BITRATEMSB_16770           0x07
+#define RF_BITRATELSB_16770           0xA2
+
 // RegBitRate (bits/sec) example bit rates
 #define RF_BITRATEMSB_1200            0x68
 #define RF_BITRATELSB_1200            0x2B
