@@ -1,4 +1,9 @@
-# RFM69 Library  [![Build Status](https://travis-ci.org/LowPowerLab/RFM69.svg)](https://travis-ci.org/LowPowerLab/RFM69)
+# RFM69 library forked from the [original repository](https://github.com/LowPowerLab/RFM69) from LowPowerLab.
+This library is stripped down for for use with the medtronic insulin pumps. Do note that it is still a work in progress.  
+
+Below the Readme.md as it was originally available.
+
+# RFM69 Library  
 
 By Felix Rusu, [LowPowerLab.com](http://LowPowerLab.com)
 <br/>
